@@ -34,3 +34,12 @@
 	    echo "õnne";
 
 ?>
+<br>
+
+<?php
+
+// kuup2ev kujul: Friday, 11.09.2015
+echo(date("l, j.m.Y"));
+
+
+?>
